@@ -1,0 +1,6 @@
+github.com/Yalantis/go-influx v0.0.0-20191205134336-55cb72797590 h1:6anPg/SgkKm+eeSzIwIVuZbar4uig6gepkmGsNp9vjE=
+github.com/Yalantis/go-influx v0.0.0-20191205134336-55cb72797590/go.mod h1:2B++r7Bp5jwjxFkT6Ws7DJ1hmJ2XMk/ODDxSmcYbHzU=
+github.com/influxdata/influxdb1-client v0.0.0-20190809212627-fc22c7df067e h1:txQltCyjXAqVVSZDArPEhUTg35hKwVIuXwtQo7eAMNQ=
+github.com/influxdata/influxdb1-client v0.0.0-20190809212627-fc22c7df067e/go.mod h1:qj24IKcXYK6Iy9ceXlo3Tc+vtHo9lIhSX5JddghvEPo=
+github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
